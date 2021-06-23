@@ -18,12 +18,7 @@ export default {
   },
   data() {
     return {
-      todoList: [
-        // { todoContent: '点赞', isFinished: false },
-        // { todoContent: '收藏', isFinished: false },
-        // { todoContent: '关注', isFinished: false },
-        // { todoContent: '一键三连', isFinished: false },
-      ],
+      todoList: [],
     }
   },
   created() {
